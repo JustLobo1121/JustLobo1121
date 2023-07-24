@@ -1,5 +1,5 @@
 ### Hi there 👋 || I'm currently learning web programming
-###---------------------------------------------------------
+### ---------------------------------------------------------
 <!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
