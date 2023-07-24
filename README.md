@@ -1,8 +1,6 @@
-### Hi there 👋
-### ---------------------------------------------
-### I'm currently learning anything
-
-<!--
+### Hi there 👋 || I'm currently learning web programming
+###---------------------------------------------------------
+<!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
