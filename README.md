@@ -1,4 +1,4 @@
-### Hi there 👋 || I'm currently learning web programming
+### Hi there 👋 || I'm currently learning front-end
 ### ---------------------------------------------------------
-## - I currenly speaking spanish, a little bit of english and learning swedish
+## - I currenly speaking spanish, my english is still a little bit bad
 ## 
