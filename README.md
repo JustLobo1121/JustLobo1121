@@ -1,6 +1,4 @@
-# Developer Introduction
-
-I am a front-end developer who speaks both English and Spanish.
+# I am a front-end developer who speaks both English and Spanish.
 
 ## About Me
 
